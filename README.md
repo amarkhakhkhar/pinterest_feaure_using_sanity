@@ -3,7 +3,7 @@ Pinterest like App created using sanity.io and react framework with  responsiven
 
 
 It is also deployed at the following website using netlify deploying features:
-<a href="https://atywshare.netlify.app">Visit it</a>
+<a href="https://awtyshare.netlify.app">Visit it</a>
 
 After cloning the repository, run npm init for getting all the required dependencies and then you are ready to make changes through it using npm start.
 
